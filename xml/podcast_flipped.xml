@@ -14,7 +14,7 @@
   <itunes:author>Jeff Ruberg</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:keywords>podcasts</itunes:keywords>
-  <itunes:image href="http://podpodpodcast.com/podpodpod-archive//public/artwork_1400.jpg" />
+  <itunes:image href="http://podpodpodcast.com/podpodpod-archive//podpodpod-archive/public/artwork_1400.jpg" />
   
     <itunes:category text="Technology">
       <itunes:category text="Podcasting" />
@@ -2557,7 +2557,7 @@ With that general introduction to *Another Round* out of the way, this episode, 
       
 
       <itunes:author>Jeff Ruberg</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/artwork_1400.jpg" />
+      <itunes:image href="http://podpodpodcast.com/podpodpod-archive/public/artwork_1400.jpg" />
       <pubDate>Mon, 03 Aug 2015 00:00:00 GMT</pubDate>
 
       
