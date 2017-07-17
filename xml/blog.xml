@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+ <title>Pod Pod Pod</title>
+ <link href="http://podpodpodcast.com/atom.xml" rel="self"/>
+ <link href="http://podpodpodcast.com/"/>
+ <updated>2016-01-15T00:42:57-08:00</updated>
+ <id>http://podpodpodcast.com</id>
+ <author>
+   <name>Jeff Ruberg</name>
+   <email>podpodpodnewsletter@gmail.com</email>
+ </author>
+
+ 
+ <entry>
+   <title>Pod Pod Pod 37</title>
+   <link href="http://podpodpodcast.com/featured/37-99pi-expiration-labels"/>
+   <updated>2016-01-15T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/99pi-expiration-labels</id>
+   <content type="html">&lt;p&gt;Where do food expiration labels come from, and what do they really mean?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 36</title>
+   <link href="http://podpodpodcast.com/featured/36-remembering-david-bowie"/>
+   <updated>2016-01-14T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/pchh-david-bowie</id>
+   <content type="html">&lt;p&gt;“The song went on forever”&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 35</title>
+   <link href="http://podpodpodcast.com/featured/35-planet-money-hoverboards"/>
+   <updated>2016-01-04T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/planet-money-hoverboard</id>
+   <content type="html">&lt;p&gt;Where did hoverboards come from?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 34</title>
+   <link href="http://podpodpodcast.com/featured/34-startup-gimlet-diversity"/>
+   <updated>2016-01-04T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/gimlet-diversity</id>
+   <content type="html">&lt;p&gt;An interesting look at the challenges, importance, and meaning of diversity for a company.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 33</title>
+   <link href="http://podpodpodcast.com/featured/33-the-bright-sessions-1"/>
+   <updated>2015-12-21T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/the-bright-sessions-1</id>
+   <content type="html">&lt;p&gt;Fiction podcasts have been on the rise lately, but I&amp;#39;ve found it very difficult to connect to most of them. But The Bright Sessions has hooked me in, with a great mix of intriguing science fiction premise, novel (but very natural) format, and serialization.&lt;/p&gt;
+
+&lt;p&gt;Each episode is a therapy session with a supernatural individual learning to deal with their super power (and the first season is following the ongoing sessions of 3 characters). It&amp;#39;s a set of character studies, but it&amp;#39;s also an interesting exploration of the consequences of flashy world-threatening powers on the emotions and turmoils of daily life.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m featuring the first episode because it&amp;#39;s definitely worth starting from the beginning, and I hope you get hooked. I&amp;#39;ve really enjoyed the first 6 episodes, and I&amp;#39;m excited to see where this podcast goes.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 32</title>
+   <link href="http://podpodpodcast.com/featured/32-reply-all-yik-yak-returns"/>
+   <updated>2015-11-18T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/reply-all-yik-yak-returns</id>
+   <content type="html">&lt;p&gt;What racism looks like in our modern age.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 31</title>
+   <link href="http://podpodpodcast.com/featured/31-99pi-water-fountains"/>
+   <updated>2015-11-16T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/99pi-water-fountains</id>
+   <content type="html">&lt;p&gt;Another episode of 99% Invisible about the surprising and fascinating history of something we find extremely common: drinking water.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 30</title>
+   <link href="http://podpodpodcast.com/featured/30-startup-gimlet-show-development"/>
+   <updated>2015-11-11T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/startup-gimlet-show-development</id>
+   <content type="html">&lt;p&gt;A look at how Gimlet develops a new podcast idea. I always find it fascinating to learn more about the behind-the-scenes production of NPR-style podcasts. I think as listeners we have a vague sense that &amp;quot;yeah, it&amp;#39;s scripted&amp;quot;, but not really a sense as to how deep that goes; what we see is the tip of the iceberg of the work that goes into these shows. And this episode is particularly interesting because it looks at the creation and development of a new podcast, which is even more unknown and invisible to listeners.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 29</title>
+   <link href="http://podpodpodcast.com/featured/29-otm-the-outsider-narrative"/>
+   <updated>2015-11-07T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/otm-the-outsider-narrative</id>
+   <content type="html">&lt;p&gt;An interesting look at the history of the &amp;quot;outsider&amp;quot; narrative of presidential candidates.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 28</title>
+   <link href="http://podpodpodcast.com/featured/28-planet-money-open-salaries"/>
+   <updated>2015-11-04T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/planet-money-open-salaries</id>
+   <content type="html">&lt;p&gt;Who benefits from our fear of openly talking about money? What would happen if things came out into the open? (This is a rebroadcast of an episode that originally aired in July 2014, but is just as relevant today as it was then.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 27</title>
+   <link href="http://podpodpodcast.com/featured/27-99pi-food-preservation"/>
+   <updated>2015-11-02T08:00:00-08:00</updated>
+   <id>http://podpodpodcast.com/featured/99pi-food-preservation</id>
+   <content type="html">&lt;p&gt;How do we get food that can sit in our pantry for years? Where do the chemicals that occupy grocery isles come from?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 26</title>
+   <link href="http://podpodpodcast.com/featured/26-nts-breaking-echo-chamber"/>
+   <updated>2015-10-28T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/nts-breaking-echo-chamber</id>
+   <content type="html">&lt;p&gt;Great chat with hosts of three of the best podcasts about expanding outside your social media echo chamber and broadening your perspective. I often hear that people are fed up with the same discussions over and over again on social media, and I&amp;#39;ve always felt that&amp;#39;s just their own fault for whom they choose to follow (the same goes for podcasts). If you&amp;#39;ve felt like you need a change of pace, this is a great place to start. Also check out the accompanying &lt;a href=&quot;http://www.wnyc.org/story/buzzfeed-professional-internet-readers-break-bubble/&quot;&gt;blog post&lt;/a&gt; for extra notes and tips that weren&amp;#39;t mentioned on the show.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 25</title>
+   <link href="http://podpodpodcast.com/featured/25-reasonably-sound-chiptunes"/>
+   <updated>2015-10-26T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/reasonably-sound-chiptunes</id>
+   <content type="html">&lt;p&gt;A really cool look into the world of chiptunes—a great listen if you have any interest in classic video game music.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 24</title>
+   <link href="http://podpodpodcast.com/featured/24-criminal-transgender-processing"/>
+   <updated>2015-10-23T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/criminal-transgender-processing</id>
+   <content type="html">&lt;p&gt;An important look at how police treated a transgender woman in 2009. Even with all the progress we&amp;#39;ve made in transgender rights in the intervening six years, transphobia is still rampant, and this is a brutal look into how it manifests.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 23</title>
+   <link href="http://podpodpodcast.com/featured/23-btln-mtv-origin"/>
+   <updated>2015-10-08T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/btln-mtv-origin</id>
+   <content type="html">&lt;p&gt;I have little interest in music, but I grew up in an era where the existence of MTV was a given part of life. Which makes hearing about the large obstacles faced in MTV&amp;#39;s creation extremely fascinating.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 22</title>
+   <link href="http://podpodpodcast.com/featured/22-otm-after-oregon"/>
+   <updated>2015-10-05T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/otm-after-oregon</id>
+   <content type="html">&lt;p&gt;An important look at the role the media plays in mass shootings.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 21</title>
+   <link href="http://podpodpodcast.com/featured/21-nts-racist-ai"/>
+   <updated>2015-10-01T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/nts-racist-ai</id>
+   <content type="html">&lt;p&gt;This episode is a great and important reminder that not only is the current state of AI much dumber than we think, but also much more biased by the demographics of its creators than we&amp;#39;d like to believe.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 20</title>
+   <link href="http://podpodpodcast.com/featured/20-radiolab-digital-ransom"/>
+   <updated>2015-09-28T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/radiolab-darkode</id>
+   <content type="html">&lt;p&gt;I swear one day I won&amp;#39;t feature Radiolab every week, but today is not that day. This episode has two halves: the first is a thrilling and fascinating story about being hacked, and the second is a look behind the network that enables those activities. It&amp;#39;s really great, and totally worth my guilt of featuring the same show three weeks in a row.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 19</title>
+   <link href="http://podpodpodcast.com/featured/19-radio-rookies-abusive-relationship"/>
+   <updated>2015-09-25T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/radio-rookies-abusive-relationship</id>
+   <content type="html">&lt;p&gt;This isn&amp;#39;t a fun recommendation, but is an important story to hear.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 18</title>
+   <link href="http://podpodpodcast.com/featured/18-out-on-the-wire-ep-1"/>
+   <updated>2015-09-23T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/out-on-the-wire-ep-1</id>
+   <content type="html">&lt;p&gt;If you&amp;#39;re interested in making narrative nonfiction radio someday, this new podcast is a must-listen. But I&amp;#39;m not interested in getting into radio someday; I enjoy this podcast for entirely different reasons, for the peeks behind the scenes of great shows and glimpses into what it takes to create compelling stories.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 17</title>
+   <link href="http://podpodpodcast.com/featured/17-rothfuss-magic-mechanics"/>
+   <updated>2015-09-21T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/rothfuss-magic-mechanics</id>
+   <content type="html">&lt;p&gt;I haven&amp;#39;t read &lt;em&gt;The Name of the Wind&lt;/em&gt; (though I&amp;#39;ve heard it&amp;#39;s excellent). I&amp;#39;m not a big fan of Cards Against Humanity. But this podcast from Patrick Rothfuss, author of &lt;em&gt;The Name of the Wind&lt;/em&gt;, and Max Temkin, of Cards Against Humanity, is really great. Their conversations are always interesting, but this episode really struck me with their discussion of the presence—or lack of—logical and well-presented rules behind fantasy magic.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 16</title>
+   <link href="http://podpodpodcast.com/featured/16-radiolab-rhino-hunting"/>
+   <updated>2015-09-18T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/radiolab-black-rhino</id>
+   <content type="html">&lt;p&gt;Part of me feels guilty because this marks my first repeat show recommendation, and in consequent episodes of the podcast nonetheless. But this epiosde was too great to pass up. It takes what may seem like a binary black-and-white issue and explores the nuance, the varied perspectives, to teach us not only about the intricacies of black rhino hunting in Namibia, but how complex so many issues can be.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 15</title>
+   <link href="http://podpodpodcast.com/featured/15-ben-franklins-little-theory"/>
+   <updated>2015-09-16T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/cracked-ben-franklin-little-theory</id>
+   <content type="html">&lt;p&gt;The ear-catching (and definitely a bit clickbaity) theory described by this episode&amp;#39;s title is interesting on a micro-level, but not exactly practical. Don&amp;#39;t listen to learn a secret hack you can use to make people like you. Listen to this episode to hear the Cracked editors explore the ramifications of this theory in a fascinating and thought-provoking discusion about society. In particular, the way this theory intersects with and influences inequality is such an adept explanation for how vast inequalities arise, and how society&amp;#39;s natural inclination is to trend towards inequality, rather than against it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 14</title>
+   <link href="http://podpodpodcast.com/featured/14-mother-pregnancy-loss"/>
+   <updated>2015-09-14T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/mother-pregnancy-loss</id>
+   <content type="html">&lt;p&gt;One of my favorite aspects of the podcast medium is the ability to hear stories from new perspectives, to grow my understanding of the world. As a guy, &lt;em&gt;Mother: A Podcast&lt;/em&gt; fits that for me perfectly, though I&amp;#39;m sure the podcast would be even more interesting to mothers or women planning to become mothers one day. This latest episode of the podcast is a great collection of stories about pregnancy loss, which I found such a valuable experience because it is something I hear and think about very rarely and I can only begin to understand at a very abstract level.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 13</title>
+   <link href="http://podpodpodcast.com/featured/13-radiolab-oliver-sacks/"/>
+   <updated>2015-09-07T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/radiolab-oliver-sacks</id>
+   <content type="html">&lt;p&gt;When the unfortunate news of Oliver Sacks&amp;#39;s passing hit last week, I didn&amp;#39;t know how to react. I had no idea who he was, just that people in public radio really loved him. Apparently Dr. Oliver Sacks provided many stories to &lt;em&gt;Radiolab&lt;/em&gt; over the years. To honor his memory, &lt;em&gt;Radiolab&lt;/em&gt; re-aired this episode from July, which is a great conversation with him and really shows why he was so loved.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 12</title>
+   <link href="http://podpodpodcast.com/featured/12-dsm-in-new-orleans/"/>
+   <updated>2015-08-28T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/dsm-in-new-orleans</id>
+   <content type="html">&lt;p&gt;This is the first part in an excellent series of interviews &lt;em&gt;Death, Sex &amp;amp; Money&lt;/em&gt; released last week to line up with the decade anniversary of Hurricane Katrina. Each interview offers a unique perspective on life in New Orleans. It&amp;#39;s a great series, and you should definitely check out the &lt;a href=&quot;http://www.wnyc.org/story/in-new-orleans/&quot;&gt;rest of the episodes&lt;/a&gt; if you found this firts part compelling.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 11</title>
+   <link href="http://podpodpodcast.com/featured/11-yte-inside-a-dogs-brain/"/>
+   <updated>2015-08-26T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/yte-inside-a-dogs-brain</id>
+   <content type="html">&lt;p&gt;I&amp;#39;m not a dog person. I might go so far as to say that I hate dogs (except huskies, because wolves). And yet I found this episode all about a puppy psychologist fascinating, engaging, and hillarious.&lt;/p&gt;
+
+&lt;p&gt;This was also the first episode of &lt;em&gt;You&amp;#39;re the Expert&lt;/em&gt; I&amp;#39;d heard, and I&amp;#39;m very impressed. It seems like a really great formula for presenting interesting information with lots of engaging humor.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 10</title>
+   <link href="http://podpodpodcast.com/featured/10-detective-ep-1"/>
+   <updated>2015-08-24T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/detective-ep-1</id>
+   <content type="html">&lt;p&gt;Haunting and fascinating.&lt;/p&gt;
+
+&lt;p&gt;This is the first episode of &lt;em&gt;Detective&lt;/em&gt;, and I&amp;#39;m hooked.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 9</title>
+   <link href="http://podpodpodcast.com/featured/9-rd-50-shades-of-john/"/>
+   <updated>2015-08-21T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/rd-50-shades-of-john</id>
+   <content type="html">&lt;p&gt;John Siracusa is most well-known on the Internet for his library of comprehensive reviews of Mac OS X on Ars Technica, his concluded tech podcast &lt;em&gt;Hypercritical&lt;/em&gt;, and as one third of the ongoing &lt;em&gt;Accidental Tech Podcast&lt;/em&gt;. &lt;em&gt;Hypercritical&lt;/em&gt;, which concluded 2 years ago, is still my favorite podcast—not directly because of any of the topics it covered (though those were usually interesting to tech geeks), but because of the way Siracusa was able to so effectively present and construct arguments about a wide variety of topics. In &lt;em&gt;Reconcilable Differences&lt;/em&gt;, he and Merlin Mann (another internet figure known in the podcasting sphere for his long-running shows &lt;em&gt;Back to Work&lt;/em&gt; and &lt;em&gt;Roderick on the Line&lt;/em&gt;) sit down and try to figure out how each other ticks by sharing stories and philosophies.&lt;/p&gt;
+
+&lt;p&gt;The thing is—two white dudes ruminating on life and sharing personal stories sounds like it could be extremely egotistical and utterly unpleasant. But that couldn&amp;#39;t be farther from the truth with &lt;em&gt;Reconcilable Differences&lt;/em&gt;. This podcast will obviously be more enjoyable if you have some familiarity with the hosts, but I think even people new to these voices will get something out of this conversation, which attempts to tackle the questions &amp;quot;how does John&amp;#39;s mind work, and how did he get that way?&amp;quot;. You&amp;#39;ll get more out of that answer if you have a preexisting fascination with how his mind works, but I think the discussion should be interesting regardless.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 8</title>
+   <link href="http://podpodpodcast.com/featured/8-mama-im-a-girl/"/>
+   <updated>2015-08-19T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/mama-im-a-girl</id>
+   <content type="html">&lt;p&gt;I&amp;#39;ve been thinking about how to feature Marlo Mack&amp;#39;s incredible, inspiring podcast &lt;em&gt;How To Be a Girl&lt;/em&gt; since I discovered it a couple weeks ago, and how to encourage people to go back and listen to the podcast&amp;#39;s back catalogue. And then this episode of &lt;em&gt;ARRVLS&lt;/em&gt;, an overview of the story behind &lt;em&gt;How To Be a Girl&lt;/em&gt;, came along and answered that question. This episode is an overview of the story behind &lt;em&gt;How To Be a Girl&lt;/em&gt;, and a great introduction to the podcast.&lt;/p&gt;
+
+&lt;p&gt;If you enjoyed this episode, be sure to listen to the entire back catalogue of &lt;em&gt;How To Be a Girl&lt;/em&gt; at &lt;a href=&quot;http://www.howtobeagirlpodcast.com/&quot;&gt;howtobeagirlpodcast.com&lt;/a&gt;. With only 8 episodes and most under 10 minutes, it&amp;#39;s very accessible.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 7</title>
+   <link href="http://podpodpodcast.com/featured/7-curious-city-shoes-on-a-wire/"/>
+   <updated>2015-08-17T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/curious-city-shoes-on-a-wire</id>
+   <content type="html">&lt;p&gt;Wait, but why do sneakers end up on power lines?&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 6</title>
+   <link href="http://podpodpodcast.com/featured/6-freakonomics-news-as-entertainment"/>
+   <updated>2015-08-14T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/freakonomics-why-do-we-follow-the-news</id>
+   <content type="html">&lt;p&gt;A couple months ago while listening to Hello Internet, professional YouTube explainer CGP Grey talked about his reasons for not following the news. He raised an interesting question that left a mark on me: is keeping up with the news as righteous, necessary, and morally imperative as we commonly believe?&lt;/p&gt;
+
+&lt;p&gt;This episode of &lt;em&gt;Freakonomics Radio&lt;/em&gt; grazes that question, but mainly tackles the related question of &lt;em&gt;why&lt;/em&gt; we actually follow the news, and if it is for the righteousness, necessity, and moral imperatives that we commonly assume. It&amp;#39;s an interesting question, and this podcast does a great job exploring it from multiple perspectives while giving the listener lots to think about.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 5</title>
+   <link href="http://podpodpodcast.com/featured/5-tal-the-problem-we-all-live-with-part-two/"/>
+   <updated>2015-08-12T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/tal-the-problem-we-all-live-with-part-two</id>
+   <content type="html">&lt;p&gt;You probably may have already seen this coming, but here&amp;#39;s the follow-up to Monday&amp;#39;s episode. If you haven&amp;#39;t listened to the first part of &lt;a href=&quot;http://podpodpodcast.com/featured/4-tal-the-problem-we-all-live-with/&quot;&gt;The Problem We All Live With&lt;/a&gt;, start there first.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;This American Life&lt;/em&gt; only keeps a small number of recent episodes available in their podcast feed, which means I suspect this episode will only download normally for about 2.5 weeks after posting. If you want to listen after then, you can listen (along with the rest of their archive) on &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/563/the-problem-we-all-live-with-part-two&quot;&gt;&lt;em&gt;This American Life&lt;/em&gt;&amp;#39;s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Similar:&lt;/strong&gt; &lt;em&gt;This American Life&lt;/em&gt; has been hitting it out of the park covering stories about race this year. If you enjoyed this episode, you should &lt;em&gt;definitely&lt;/em&gt; check out &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/547/cops-see-it-differently-part-one&quot;&gt;Cops See It Differently, Part One&lt;/a&gt; (Feb 6, 2015), &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/548/cops-see-it-differently-part-two&quot;&gt;Cops See It Differently, Part Two&lt;/a&gt; (Feb 13, 2015), and &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/550/three-miles&quot;&gt;Three Miles&lt;/a&gt; (Mar 13, 2015).&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Editorial Note:&lt;/strong&gt; I&amp;#39;m unsure how to handle two-part episodes like these going forward. What I&amp;#39;m doing here with devoting 2/3 of the week to one story feels unfair to people who weren&amp;#39;t interested in the first half, but I thought this particular story was gripping enough to warrant the focus. Other alternatives I&amp;#39;ve considered: just post the first episode in the feed, and link to the following parts in the show notes (but I bet a lot of people wouldn&amp;#39;t notice and would completely miss out on the following parts); or include both parts in the feed on a single day (but this contradicts one of my main goals, which is to make this feed light and digestible). I don&amp;#39;t really know. Let me know what you think on &lt;a href=&quot;https://twitter.com/jeffinitelyjeff&quot;&gt;Twitter&lt;/a&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 4</title>
+   <link href="http://podpodpodcast.com/featured/4-tal-the-problem-we-all-live-with/"/>
+   <updated>2015-08-10T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/tal-the-problem-we-all-live-with</id>
+   <content type="html">&lt;p&gt;&lt;em&gt;This American Life&lt;/em&gt; is perhaps the biggest podcast out there, so featuring it here to some degree feels a bit odd. This episode isn&amp;#39;t being featured to say “hey, you should check out this podcast you may not have heard of,” but rather: “this episode is extremely well-done, thought-provoking, very important, and you should definitely listen.”&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note:&lt;/strong&gt; &lt;em&gt;This American Life&lt;/em&gt; only keeps a small number of recent episodes available in their podcast feed, which means I suspect this episode will only download normally for about 2 weeks after posting. If you want to listen after then, you can listen (along with the rest of their archive) on &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/562/the-problem-we-all-live-with&quot;&gt;&lt;em&gt;This American Life&lt;/em&gt;&amp;#39;s website&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Similar:&lt;/strong&gt; &lt;em&gt;This American Life&lt;/em&gt; has been hitting it out of the park covering stories about race this year. If you enjoyed this episode, you should &lt;em&gt;definitely&lt;/em&gt; check out &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/547/cops-see-it-differently-part-one&quot;&gt;Cops See It Differently, Part One&lt;/a&gt; (Feb 6, 2015), &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/548/cops-see-it-differently-part-two&quot;&gt;Cops See It Differently, Part Two&lt;/a&gt; (Feb 13, 2015), and &lt;a href=&quot;http://www.thisamericanlife.org/radio-archives/episode/550/three-miles&quot;&gt;Three Miles&lt;/a&gt; (Mar 13, 2015).&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 3</title>
+   <link href="http://podpodpodcast.com/featured/3-nts-this-is-your-brain-on-online-shopping/"/>
+   <updated>2015-08-07T09:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/nts-online-shopping</id>
+   <content type="html">&lt;p&gt;This is a pretty great primer to the concept and practice of UX (user experience) research. It&amp;#39;s an interesting look behind the process of UX research, but also a great introduction to how questions of UX affect software and experiences that continue to become more significant in our lives.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 2</title>
+   <link href="http://podpodpodcast.com/featured/2-another-round-microaggression-tuesday/"/>
+   <updated>2015-08-05T18:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/another-round-was-that-a-microaggression-or-just-tuesday</id>
+   <content type="html">&lt;p&gt;Come to &lt;em&gt;Another Round&lt;/em&gt; to hear two smart women discuss race and social justice; stay for the squirreltalk and insightful interviews. If you&amp;#39;re woke, listen to have fun hearing about issues you care about; if you&amp;#39;re not woke (or don&amp;#39;t know what that word means and think I&amp;#39;m using the past participle of &amp;#39;wake&amp;#39; incorrectly), listen to have fun hearing new voices and seeing different perspectives.&lt;/p&gt;
+
+&lt;p&gt;With that general introduction to &lt;em&gt;Another Round&lt;/em&gt; out of the way, this episode, with guest Audie Cornish from NPR&amp;#39;s &lt;em&gt;All Things Considered&lt;/em&gt;, is great for all of the reasons that &lt;em&gt;Another Round&lt;/em&gt; is typically great. Some highlights: reading Martin Luther King quotes to a racist fish, the whiteness of public radio voices, and perspective on microagressions.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Pod Pod Pod 1</title>
+   <link href="http://podpodpodcast.com/featured/1-99pi-173-awareness/"/>
+   <updated>2015-08-03T10:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/featured/99pi-awareness</id>
+   <content type="html">&lt;p&gt;If you don&amp;#39;t listen to &lt;em&gt;99% Invisible&lt;/em&gt; regularly, you probably should. Some episodes focus on topics that mostly appeal to design or architecture nerds, but every now and then &lt;em&gt;99% Invisible&lt;/em&gt; hits it out of the park with a story that resonates with basically anyone. This episode is about a design, but really it&amp;#39;s about the powerful social impact that a simple little design can achieve.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What Is This Thing?</title>
+   <link href="http://podpodpodcast.com/blog/2015-08-03-what-is-this-thing/"/>
+   <updated>2015-08-03T06:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/blog/what-is-this-thing</id>
+   <content type="html">&lt;p&gt;Welcome to Pod Pod Pod, a curated playlist of the week&amp;#39;s best podcasts. I&amp;#39;m your podcast DJ, Jeffinitely Jeff.&lt;/p&gt;
+
+&lt;p&gt;Here&amp;#39;s how this thing is gonna work: subscribe to Pod Pod Pod and every Monday, Wednesday, and Friday I&amp;#39;ll post a great podcast that I&amp;#39;ve found in the past week and I think you should try listening to.&lt;/p&gt;
+
+&lt;p&gt;Why should you care what podcasts I recommend? Well, I&amp;#39;m a little obsessed with podcasts. Obsessed enough that my phone has autocorrected a correctly typed &amp;quot;well&amp;quot; into the name of a &lt;a href=&quot;https://en.wikipedia.org/wiki/Swell_Radio&quot;&gt;podcast app&lt;/a&gt; that shut down a year ago. Obsessed enough to organize my to-do lists by what type of podcast I can listen to in the background—to subscribe to over 600 podcasts and listen to about 100 to 200 episodes a week. I have some fairly niche interests, but I&amp;#39;m going to be keeping these recommendations pretty mainstream—I plan for all of these episodes to be &amp;quot;must listens&amp;quot; for basically anyone. I want Pod Pod Pod to serve both as a beginner&amp;#39;s orientation to podcasts and a long-time podcast fan&amp;#39;s transfusion of new and exciting shows.&lt;/p&gt;
+
+&lt;p&gt;Some say we&amp;#39;re in the middle of a podcast Renaissance, and it&amp;#39;s undeniable that there are more amazing shows out there than there ever have been, but finding and trying out new podcasts still kinda sucks. So what makes Pod Pod Pod any different from the lush landscape of &lt;a href=&quot;http://tinyletter.com/YSLTF&quot;&gt;podcast&lt;/a&gt; &lt;a href=&quot;http://tinyletter.com/sara-weber&quot;&gt;recommendation&lt;/a&gt; &lt;a href=&quot;http://tinyletter.com/thepodcastbroadcast&quot;&gt;newsletters&lt;/a&gt;? Pod Pod Pod is a &lt;a href=&quot;http://tinyletter.com/podpodpod&quot;&gt;newsletter&lt;/a&gt;, a &lt;a href=&quot;https://twitter.com/podpodpodcast&quot;&gt;Twitter account&lt;/a&gt;, a &lt;a href=&quot;https://podpodpodcast.com&quot;&gt;link blog&lt;/a&gt;, but primarily and most importantly: you can &lt;a href=&quot;http://feed.podpodpodcast.com/podpodpodcast&quot;&gt;subscribe&lt;/a&gt; to it in your favorite podcast app and have 3 new awesome podcast episodes automatically appear each week. Pod Pod Pod is a meta-podcast playlist, a playlist of the best episodes of other podcasts, which sneaks into your podcast app disguised as a podcast.&lt;/p&gt;
+
+&lt;p&gt;From time to time I&amp;#39;ll include a brief introduction to an episode if I think it&amp;#39;s important to set the stage, and on rare occasions I may include post-episode reactions or discussions for special episodes. I&amp;#39;ll never modify or hijack downloads of others&amp;#39; podcasts, and am only going to be linking directly to the original audio files, so these pre- and post-episode thoughts will be delivered as separate audio files in the podcast and blog feed. If you have your podcast app set up to automatically play podcasts sequentially, it should be pretty seamless. But if you&amp;#39;re using reverse-chronological sorting (aka newest first): first of all, you should be ashamed of yourself and your heathen ways, and, second of all, I have an &lt;a href=&quot;http://feed.podpodpodcast.com/podpodpodcast_flipped&quot;&gt;alternative feed&lt;/a&gt; with pre- and post-episode positions swapped so pre- will still come before and post- after if you insist on your immoral life style. I don&amp;#39;t think these pre- and post-show bits will be frequent, but I&amp;#39;ll see how things go and what you like.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;ll have a comment thread for each episode here, so check that out if you want to chat about any of the episodes I&amp;#39;ve linked to.&lt;/p&gt;
+
+&lt;p&gt;I&amp;#39;m hoping to have Pod Pod Pod in iTunes soon, but until then you can subscribe in a podcast app by copy and pasting the URL for the &lt;a href=&quot;http://feed.podpodpodcast.com/podpodpodcast&quot;&gt;RSS feed&lt;/a&gt; (or the &lt;a href=&quot;http://feed.podpodpodcast.com/podpodpodcast_flipped&quot;&gt;chrono-flipped RSS feed&lt;/a&gt;). If you&amp;#39;re into Twitter, you can follow &lt;a href=&quot;https://twitter.com/podpodpodcast&quot;&gt;@podpodpodcast&lt;/a&gt; to keep up with the latest recommendations—or my personal account, &lt;a href=&quot;https://twitter.com/jeffinitelyjeff&quot;&gt;@jeffinitelyjeff&lt;/a&gt;, if you want random musings and rants about software development, podcasting, and anime. If you want to fight back against Inbox Zero, subscribe to the recommendations as a &lt;a href=&quot;http://tinyletter.com/podpodpod&quot;&gt;weekly email newsletter&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;This is a weird experiment, but I&amp;#39;m excited to share great audio with you. I hope you enjoy it.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>What Is This Thing?</title>
+   <link href="http://podpodpodcast.com/ppp/1-what-is-this-thing/"/>
+   <updated>2015-08-03T00:00:00-07:00</updated>
+   <id>http://podpodpodcast.com/ppp/welcome</id>
+   <content type="html">&lt;p&gt;A brief introduction to Pod Pod Pod.&lt;/p&gt;
+
+&lt;h3&gt;Music Credits&lt;/h3&gt;
+
+&lt;ul&gt;
+&lt;li&gt;&amp;quot;Show Your Moves&amp;quot; by &lt;a href=&quot;http://incompetech.com&quot;&gt;Kevin MacLeod&lt;/a&gt;, licensed under &lt;a href=&quot;http://creativecommons.org/licenses/by/3.0/&quot;&gt;Creative Commons: By Attribution 3.0&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+ </entry>
+ 
+
+</feed>
