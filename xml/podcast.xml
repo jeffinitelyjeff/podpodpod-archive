@@ -4,17 +4,17 @@
 
 <channel>
 
-  <atom:link href="//xml/podcast.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="/podpodpod-archive//xml/podcast.xml" rel="self" type="application/rss+xml"/>
 
   <title>Pod Pod Pod — A Podcast Playlist</title>
   <link>http://podpodpodcast.com</link>
-  <copyright>2016 Jeff Ruberg</copyright>
+  <copyright>2017 Jeff Ruberg</copyright>
   <language>en</language>
 
   <itunes:author>Jeff Ruberg</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:keywords>podcasts</itunes:keywords>
-  <itunes:image href="http://podpodpodcast.com//public/artwork_1400.jpg" />
+  <itunes:image href="http://podpodpodcast.com/podpodpod-archive//public/artwork_1400.jpg" />
   
     <itunes:category text="Technology">
       <itunes:category text="Podcasting" />
