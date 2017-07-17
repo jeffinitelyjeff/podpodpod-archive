@@ -4,7 +4,7 @@
 
 <channel>
 
-  <atom:link href="/podpodpod-archive//xml/podcast.xml" rel="self" type="application/rss+xml"/>
+  <atom:link href="/podpodpod-archive/xml/podcast.xml" rel="self" type="application/rss+xml"/>
 
   <title>Pod Pod Pod — A Podcast Playlist</title>
   <link>http://podpodpodcast.com</link>
@@ -14,7 +14,7 @@
   <itunes:author>Jeff Ruberg</itunes:author>
   <itunes:explicit>no</itunes:explicit>
   <itunes:keywords>podcasts</itunes:keywords>
-  <itunes:image href="http://podpodpodcast.com/podpodpod-archive//podpodpod-archive/public/artwork_1400.jpg" />
+  <itunes:image href="http://podpodpodcast.com/podpodpod-archive/public/artwork_1400.jpg" />
   
     <itunes:category text="Technology">
       <itunes:category text="Podcasting" />
@@ -53,7 +53,7 @@
       
 
       <itunes:author>99% Invisible</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/99pi.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/99pi.jpg" />
       <pubDate>Fri, 15 Jan 2016 08:00:00 GMT</pubDate>
 
       
@@ -65,7 +65,7 @@
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/99pi.jpg" />
+<img src="/podpodpod-archive/public/img/99pi.jpg" />
 
 <p>Where do food expiration labels come from, and what do they really mean?</p>
 
@@ -118,7 +118,7 @@
       
 
       <itunes:author>Pop Culture Happy Hour</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/pchh.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/pchh.jpg" />
       <pubDate>Thu, 14 Jan 2016 08:00:00 GMT</pubDate>
 
       
@@ -130,7 +130,7 @@
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/pchh.jpg" />
+<img src="/podpodpod-archive/public/img/pchh.jpg" />
 
 <p>“The song went on forever”</p>
 
@@ -181,7 +181,7 @@
       
 
       <itunes:author>Planet Money</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/planet_money.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/planet_money.jpg" />
       <pubDate>Mon, 04 Jan 2016 08:00:00 GMT</pubDate>
 
       
@@ -193,7 +193,7 @@
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/planet_money.jpg" />
+<img src="/podpodpod-archive/public/img/planet_money.jpg" />
 
 <p>Where did hoverboards come from?</p>
 
@@ -246,7 +246,7 @@
       
 
       <itunes:author>StartUp Podcast</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/startup.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/startup.jpg" />
       <pubDate>Mon, 04 Jan 2016 08:00:00 GMT</pubDate>
 
       
@@ -258,7 +258,7 @@
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/startup.jpg" />
+<img src="/podpodpod-archive/public/img/startup.jpg" />
 
 <p>An interesting look at the challenges, importance, and meaning of diversity for a company.</p>
 
@@ -311,7 +311,7 @@
       
 
       <itunes:author>The Bright Sessions</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/bright_sessions.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/bright_sessions.jpg" />
       <pubDate>Mon, 21 Dec 2015 08:00:00 GMT</pubDate>
 
       
@@ -333,7 +333,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/bright_sessions.jpg" />
+<img src="/podpodpod-archive/public/img/bright_sessions.jpg" />
 
 <p>Fiction podcasts have been on the rise lately, but I&#39;ve found it very difficult to connect to most of them. But The Bright Sessions has hooked me in, with a great mix of intriguing science fiction premise, novel (but very natural) format, and serialization.</p>
 
@@ -390,7 +390,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Reply All</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/reply_all.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/reply_all.jpg" />
       <pubDate>Wed, 18 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -404,7 +404,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/reply_all.jpg" />
+<img src="/podpodpod-archive/public/img/reply_all.jpg" />
 
 <p>What racism looks like in our modern age.</p>
 
@@ -457,7 +457,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>99% Invisible</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/99pi.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/99pi.jpg" />
       <pubDate>Mon, 16 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -471,7 +471,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/99pi.jpg" />
+<img src="/podpodpod-archive/public/img/99pi.jpg" />
 
 <p>Another episode of 99% Invisible about the surprising and fascinating history of something we find extremely common: drinking water.</p>
 
@@ -524,7 +524,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>StartUp Podcast</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/startup.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/startup.jpg" />
       <pubDate>Wed, 11 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -538,7 +538,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/startup.jpg" />
+<img src="/podpodpod-archive/public/img/startup.jpg" />
 
 <p>A look at how Gimlet develops a new podcast idea. I always find it fascinating to learn more about the behind-the-scenes production of NPR-style podcasts. I think as listeners we have a vague sense that &quot;yeah, it&#39;s scripted&quot;, but not really a sense as to how deep that goes; what we see is the tip of the iceberg of the work that goes into these shows. And this episode is particularly interesting because it looks at the creation and development of a new podcast, which is even more unknown and invisible to listeners.</p>
 
@@ -591,7 +591,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>On the Media</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/on_the_media.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/on_the_media.jpg" />
       <pubDate>Sat, 07 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -603,7 +603,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/on_the_media.jpg" />
+<img src="/podpodpod-archive/public/img/on_the_media.jpg" />
 
 <p>An interesting look at the history of the &quot;outsider&quot; narrative of presidential candidates.</p>
 
@@ -656,7 +656,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Planet Money</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/planet_money.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/planet_money.jpg" />
       <pubDate>Wed, 04 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -668,7 +668,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/planet_money.jpg" />
+<img src="/podpodpod-archive/public/img/planet_money.jpg" />
 
 <p>Who benefits from our fear of openly talking about money? What would happen if things came out into the open? (This is a rebroadcast of an episode that originally aired in July 2014, but is just as relevant today as it was then.)</p>
 
@@ -721,7 +721,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>99% Invisible</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/99pi.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/99pi.jpg" />
       <pubDate>Mon, 02 Nov 2015 08:00:00 GMT</pubDate>
 
       
@@ -733,7 +733,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/99pi.jpg" />
+<img src="/podpodpod-archive/public/img/99pi.jpg" />
 
 <p>How do we get food that can sit in our pantry for years? Where do the chemicals that occupy grocery isles come from?</p>
 
@@ -786,7 +786,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Note to Self</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/note_to_self.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/note_to_self.jpg" />
       <pubDate>Wed, 28 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -800,7 +800,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/note_to_self.jpg" />
+<img src="/podpodpod-archive/public/img/note_to_self.jpg" />
 
 <p>Great chat with hosts of three of the best podcasts about expanding outside your social media echo chamber and broadening your perspective. I often hear that people are fed up with the same discussions over and over again on social media, and I&#39;ve always felt that&#39;s just their own fault for whom they choose to follow (the same goes for podcasts). If you&#39;ve felt like you need a change of pace, this is a great place to start. Also check out the accompanying <a href="http://www.wnyc.org/story/buzzfeed-professional-internet-readers-break-bubble/">blog post</a> for extra notes and tips that weren&#39;t mentioned on the show.</p>
 
@@ -853,7 +853,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Reasonably Sound</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/reasonably_sound.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/reasonably_sound.jpg" />
       <pubDate>Mon, 26 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -867,7 +867,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/reasonably_sound.jpg" />
+<img src="/podpodpod-archive/public/img/reasonably_sound.jpg" />
 
 <p>A really cool look into the world of chiptunes—a great listen if you have any interest in classic video game music.</p>
 
@@ -920,7 +920,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Criminal</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/criminal.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/criminal.jpg" />
       <pubDate>Fri, 23 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -934,7 +934,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/criminal.jpg" />
+<img src="/podpodpod-archive/public/img/criminal.jpg" />
 
 <p>An important look at how police treated a transgender woman in 2009. Even with all the progress we&#39;ve made in transgender rights in the intervening six years, transphobia is still rampant, and this is a brutal look into how it manifests.</p>
 
@@ -987,7 +987,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Between the Liner Notes</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/btln.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/btln.jpg" />
       <pubDate>Thu, 08 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -999,7 +999,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/btln.jpg" />
+<img src="/podpodpod-archive/public/img/btln.jpg" />
 
 <p>I have little interest in music, but I grew up in an era where the existence of MTV was a given part of life. Which makes hearing about the large obstacles faced in MTV&#39;s creation extremely fascinating.</p>
 
@@ -1052,7 +1052,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>On the Media</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/on_the_media.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/on_the_media.jpg" />
       <pubDate>Mon, 05 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -1064,7 +1064,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/on_the_media.jpg" />
+<img src="/podpodpod-archive/public/img/on_the_media.jpg" />
 
 <p>An important look at the role the media plays in mass shootings.</p>
 
@@ -1117,7 +1117,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Note to Self</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/note_to_self.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/note_to_self.jpg" />
       <pubDate>Thu, 01 Oct 2015 09:00:00 GMT</pubDate>
 
       
@@ -1131,7 +1131,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/note_to_self.jpg" />
+<img src="/podpodpod-archive/public/img/note_to_self.jpg" />
 
 <p>This episode is a great and important reminder that not only is the current state of AI much dumber than we think, but also much more biased by the demographics of its creators than we&#39;d like to believe.</p>
 
@@ -1184,7 +1184,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Radiolab</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/radiolab.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/radiolab.jpg" />
       <pubDate>Mon, 28 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1198,7 +1198,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/radiolab.jpg" />
+<img src="/podpodpod-archive/public/img/radiolab.jpg" />
 
 <p>I swear one day I won&#39;t feature Radiolab every week, but today is not that day. This episode has two halves: the first is a thrilling and fascinating story about being hacked, and the second is a look behind the network that enables those activities. It&#39;s really great, and totally worth my guilt of featuring the same show three weeks in a row.</p>
 
@@ -1251,7 +1251,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Radio Rookies</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/radio_rookies.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/radio_rookies.jpg" />
       <pubDate>Fri, 25 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1265,7 +1265,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/radio_rookies.jpg" />
+<img src="/podpodpod-archive/public/img/radio_rookies.jpg" />
 
 <p>This isn&#39;t a fun recommendation, but is an important story to hear.</p>
 
@@ -1318,7 +1318,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Out on the Wire</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/out_on_the_wire.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/out_on_the_wire.jpg" />
       <pubDate>Wed, 23 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1332,7 +1332,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/out_on_the_wire.jpg" />
+<img src="/podpodpod-archive/public/img/out_on_the_wire.jpg" />
 
 <p>If you&#39;re interested in making narrative nonfiction radio someday, this new podcast is a must-listen. But I&#39;m not interested in getting into radio someday; I enjoy this podcast for entirely different reasons, for the peeks behind the scenes of great shows and glimpses into what it takes to create compelling stories.</p>
 
@@ -1385,7 +1385,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Untitled Patrick Rothfuss Podcast</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/untitled_rothfuss.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/untitled_rothfuss.jpg" />
       <pubDate>Mon, 21 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1397,7 +1397,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/untitled_rothfuss.jpg" />
+<img src="/podpodpod-archive/public/img/untitled_rothfuss.jpg" />
 
 <p>I haven&#39;t read <em>The Name of the Wind</em> (though I&#39;ve heard it&#39;s excellent). I&#39;m not a big fan of Cards Against Humanity. But this podcast from Patrick Rothfuss, author of <em>The Name of the Wind</em>, and Max Temkin, of Cards Against Humanity, is really great. Their conversations are always interesting, but this episode really struck me with their discussion of the presence—or lack of—logical and well-presented rules behind fantasy magic.</p>
 
@@ -1450,7 +1450,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Radiolab</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/radiolab.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/radiolab.jpg" />
       <pubDate>Fri, 18 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1464,7 +1464,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/radiolab.jpg" />
+<img src="/podpodpod-archive/public/img/radiolab.jpg" />
 
 <p>Part of me feels guilty because this marks my first repeat show recommendation, and in consequent episodes of the podcast nonetheless. But this epiosde was too great to pass up. It takes what may seem like a binary black-and-white issue and explores the nuance, the varied perspectives, to teach us not only about the intricacies of black rhino hunting in Namibia, but how complex so many issues can be.</p>
 
@@ -1517,7 +1517,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>The Cracked Podcast</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/cracked.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/cracked.jpg" />
       <pubDate>Wed, 16 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1531,7 +1531,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/cracked.jpg" />
+<img src="/podpodpod-archive/public/img/cracked.jpg" />
 
 <p>The ear-catching (and definitely a bit clickbaity) theory described by this episode&#39;s title is interesting on a micro-level, but not exactly practical. Don&#39;t listen to learn a secret hack you can use to make people like you. Listen to this episode to hear the Cracked editors explore the ramifications of this theory in a fascinating and thought-provoking discusion about society. In particular, the way this theory intersects with and influences inequality is such an adept explanation for how vast inequalities arise, and how society&#39;s natural inclination is to trend towards inequality, rather than against it.</p>
 
@@ -1584,7 +1584,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Mother: A Podcast</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/mother.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/mother.jpg" />
       <pubDate>Mon, 14 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1598,7 +1598,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/mother.jpg" />
+<img src="/podpodpod-archive/public/img/mother.jpg" />
 
 <p>One of my favorite aspects of the podcast medium is the ability to hear stories from new perspectives, to grow my understanding of the world. As a guy, <em>Mother: A Podcast</em> fits that for me perfectly, though I&#39;m sure the podcast would be even more interesting to mothers or women planning to become mothers one day. This latest episode of the podcast is a great collection of stories about pregnancy loss, which I found such a valuable experience because it is something I hear and think about very rarely and I can only begin to understand at a very abstract level.</p>
 
@@ -1651,7 +1651,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Radiolab</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/radiolab.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/radiolab.jpg" />
       <pubDate>Mon, 07 Sep 2015 09:00:00 GMT</pubDate>
 
       
@@ -1665,7 +1665,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/radiolab.jpg" />
+<img src="/podpodpod-archive/public/img/radiolab.jpg" />
 
 <p>When the unfortunate news of Oliver Sacks&#39;s passing hit last week, I didn&#39;t know how to react. I had no idea who he was, just that people in public radio really loved him. Apparently Dr. Oliver Sacks provided many stories to <em>Radiolab</em> over the years. To honor his memory, <em>Radiolab</em> re-aired this episode from July, which is a great conversation with him and really shows why he was so loved.</p>
 
@@ -1718,7 +1718,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>Death, Sex &amp; Money</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/death_sex_money.png" />
+      <itunes:image href="/podpodpod-archive/public/img/death_sex_money.png" />
       <pubDate>Fri, 28 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -1732,7 +1732,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/death_sex_money.png" />
+<img src="/podpodpod-archive/public/img/death_sex_money.png" />
 
 <p>This is the first part in an excellent series of interviews <em>Death, Sex &amp; Money</em> released last week to line up with the decade anniversary of Hurricane Katrina. Each interview offers a unique perspective on life in New Orleans. It&#39;s a great series, and you should definitely check out the <a href="http://www.wnyc.org/story/in-new-orleans/">rest of the episodes</a> if you found this firts part compelling.</p>
 
@@ -1785,7 +1785,7 @@ I&#39;m featuring the first episode because it&#39;s definitely worth starting f
       
 
       <itunes:author>You&#39;re the Expert</itunes:author>
-      <itunes:image href="http://podpodpodcast.com/public/img/you're_the_expert.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/you're_the_expert.jpg" />
       <pubDate>Wed, 26 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -1801,7 +1801,7 @@ This was also the first episode of *You&#39;re the Expert* I&#39;d heard, and I&
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com/public/img/you're_the_expert.jpg" />
+<img src="/podpodpod-archive/public/img/you're_the_expert.jpg" />
 
 <p>I&#39;m not a dog person. I might go so far as to say that I hate dogs (except huskies, because wolves). And yet I found this episode all about a puppy psychologist fascinating, engaging, and hillarious.</p>
 
@@ -1856,7 +1856,7 @@ This was also the first episode of *You&#39;re the Expert* I&#39;d heard, and I&
       
 
       <itunes:author>Detective</itunes:author>
-      <itunes:image href="http://podpodpodcast.comdetective.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/detective.jpg" />
       <pubDate>Mon, 24 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -1874,7 +1874,7 @@ This is the first episode of *Detective*, and I&#39;m hooked.
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comdetective.jpg" />
+<img src="/podpodpod-archive/public/img/detective.jpg" />
 
 <p>Haunting and fascinating.</p>
 
@@ -1929,7 +1929,7 @@ This is the first episode of *Detective*, and I&#39;m hooked.
       
 
       <itunes:author>Reconcilable Differences</itunes:author>
-      <itunes:image href="http://podpodpodcast.comreconcilable_differences.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/reconcilable_differences.jpg" />
       <pubDate>Fri, 21 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -1947,7 +1947,7 @@ The thing is—two white dudes ruminating on life and sharing personal stories s
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comreconcilable_differences.jpg" />
+<img src="/podpodpod-archive/public/img/reconcilable_differences.jpg" />
 
 <p>John Siracusa is most well-known on the Internet for his library of comprehensive reviews of Mac OS X on Ars Technica, his concluded tech podcast <em>Hypercritical</em>, and as one third of the ongoing <em>Accidental Tech Podcast</em>. <em>Hypercritical</em>, which concluded 2 years ago, is still my favorite podcast—not directly because of any of the topics it covered (though those were usually interesting to tech geeks), but because of the way Siracusa was able to so effectively present and construct arguments about a wide variety of topics. In <em>Reconcilable Differences</em>, he and Merlin Mann (another internet figure known in the podcasting sphere for his long-running shows <em>Back to Work</em> and <em>Roderick on the Line</em>) sit down and try to figure out how each other ticks by sharing stories and philosophies.</p>
 
@@ -2002,7 +2002,7 @@ The thing is—two white dudes ruminating on life and sharing personal stories s
       
 
       <itunes:author>ARRVLS</itunes:author>
-      <itunes:image href="http://podpodpodcast.comarrvls.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/arrvls.jpg" />
       <pubDate>Wed, 19 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2020,7 +2020,7 @@ If you enjoyed this episode, be sure to listen to the entire back catalogue of *
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comarrvls.jpg" />
+<img src="/podpodpod-archive/public/img/arrvls.jpg" />
 
 <p>I&#39;ve been thinking about how to feature Marlo Mack&#39;s incredible, inspiring podcast <em>How To Be a Girl</em> since I discovered it a couple weeks ago, and how to encourage people to go back and listen to the podcast&#39;s back catalogue. And then this episode of <em>ARRVLS</em>, an overview of the story behind <em>How To Be a Girl</em>, came along and answered that question. This episode is an overview of the story behind <em>How To Be a Girl</em>, and a great introduction to the podcast.</p>
 
@@ -2075,7 +2075,7 @@ If you enjoyed this episode, be sure to listen to the entire back catalogue of *
       
 
       <itunes:author>Curious City</itunes:author>
-      <itunes:image href="http://podpodpodcast.comcurious_city.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/curious_city.jpg" />
       <pubDate>Mon, 17 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2089,7 +2089,7 @@ If you enjoyed this episode, be sure to listen to the entire back catalogue of *
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comcurious_city.jpg" />
+<img src="/podpodpod-archive/public/img/curious_city.jpg" />
 
 <p>Wait, but why do sneakers end up on power lines?</p>
 
@@ -2142,7 +2142,7 @@ If you enjoyed this episode, be sure to listen to the entire back catalogue of *
       
 
       <itunes:author>Freakonomics Radio</itunes:author>
-      <itunes:image href="http://podpodpodcast.comfreakonomics_radio.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/freakonomics_radio.jpg" />
       <pubDate>Fri, 14 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2160,7 +2160,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comfreakonomics_radio.jpg" />
+<img src="/podpodpod-archive/public/img/freakonomics_radio.jpg" />
 
 <p>A couple months ago while listening to Hello Internet, professional YouTube explainer CGP Grey talked about his reasons for not following the news. He raised an interesting question that left a mark on me: is keeping up with the news as righteous, necessary, and morally imperative as we commonly believe?</p>
 
@@ -2215,7 +2215,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
       
 
       <itunes:author>This American Life</itunes:author>
-      <itunes:image href="http://podpodpodcast.comthis_american_life.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/this_american_life.jpg" />
       <pubDate>Wed, 12 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2241,7 +2241,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comthis_american_life.jpg" />
+<img src="/podpodpod-archive/public/img/this_american_life.jpg" />
 
 <p>You probably may have already seen this coming, but here&#39;s the follow-up to Monday&#39;s episode. If you haven&#39;t listened to the first part of <a href="http://podpodpodcast.com/featured/4-tal-the-problem-we-all-live-with/">The Problem We All Live With</a>, start there first.</p>
 
@@ -2300,7 +2300,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
       
 
       <itunes:author>This American Life</itunes:author>
-      <itunes:image href="http://podpodpodcast.comthis_american_life.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/this_american_life.jpg" />
       <pubDate>Mon, 10 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2324,7 +2324,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comthis_american_life.jpg" />
+<img src="/podpodpod-archive/public/img/this_american_life.jpg" />
 
 <p><em>This American Life</em> is perhaps the biggest podcast out there, so featuring it here to some degree feels a bit odd. This episode isn&#39;t being featured to say “hey, you should check out this podcast you may not have heard of,” but rather: “this episode is extremely well-done, thought-provoking, very important, and you should definitely listen.”</p>
 
@@ -2381,7 +2381,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
       
 
       <itunes:author>Note to Self</itunes:author>
-      <itunes:image href="http://podpodpodcast.comnote_to_self.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/note_to_self.jpg" />
       <pubDate>Fri, 07 Aug 2015 09:00:00 GMT</pubDate>
 
       
@@ -2395,7 +2395,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comnote_to_self.jpg" />
+<img src="/podpodpod-archive/public/img/note_to_self.jpg" />
 
 <p>This is a pretty great primer to the concept and practice of UX (user experience) research. It&#39;s an interesting look behind the process of UX research, but also a great introduction to how questions of UX affect software and experiences that continue to become more significant in our lives.</p>
 
@@ -2448,7 +2448,7 @@ This episode of *Freakonomics Radio* grazes that question, but mainly tackles th
       
 
       <itunes:author>Another Round</itunes:author>
-      <itunes:image href="http://podpodpodcast.comanother_round.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/another_round.jpg" />
       <pubDate>Wed, 05 Aug 2015 18:00:00 GMT</pubDate>
 
       
@@ -2466,7 +2466,7 @@ With that general introduction to *Another Round* out of the way, this episode, 
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.comanother_round.jpg" />
+<img src="/podpodpod-archive/public/img/another_round.jpg" />
 
 <p>Come to <em>Another Round</em> to hear two smart women discuss race and social justice; stay for the squirreltalk and insightful interviews. If you&#39;re woke, listen to have fun hearing about issues you care about; if you&#39;re not woke (or don&#39;t know what that word means and think I&#39;m using the past participle of &#39;wake&#39; incorrectly), listen to have fun hearing new voices and seeing different perspectives.</p>
 
@@ -2521,7 +2521,7 @@ With that general introduction to *Another Round* out of the way, this episode, 
       
 
       <itunes:author>99% Invisible</itunes:author>
-      <itunes:image href="http://podpodpodcast.com99pi.jpg" />
+      <itunes:image href="/podpodpod-archive/public/img/99pi.jpg" />
       <pubDate>Mon, 03 Aug 2015 10:00:00 GMT</pubDate>
 
       
@@ -2535,7 +2535,7 @@ With that general introduction to *Another Round* out of the way, this episode, 
 
       <content:encoded><![CDATA[
 
-<img src="http://podpodpodcast.com99pi.jpg" />
+<img src="/podpodpod-archive/public/img/99pi.jpg" />
 
 <p>If you don&#39;t listen to <em>99% Invisible</em> regularly, you probably should. Some episodes focus on topics that mostly appeal to design or architecture nerds, but every now and then <em>99% Invisible</em> hits it out of the park with a story that resonates with basically anyone. This episode is about a design, but really it&#39;s about the powerful social impact that a simple little design can achieve.</p>
 
@@ -2590,7 +2590,7 @@ With that general introduction to *Another Round* out of the way, this episode, 
       
 
       <itunes:author>Jeff Ruberg</itunes:author>
-      <itunes:image href="http://podpodpodcast.com" />
+      <itunes:image href="/podpodpod-archive/public/img/" />
       <pubDate>Mon, 03 Aug 2015 00:00:00 GMT</pubDate>
 
       
